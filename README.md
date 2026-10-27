@@ -1,16 +1,23 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working on Multi-Agent AI Systems, RAG Pipelines, and AI-Powered Backend Applications
 
-<!--
-**Moon2311/Moon2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👯 I’m looking to collaborate on Agentic AI, LLM Applications, and Open-Source AI Projects
 
-Here are some ideas to get you started:
+🤝 I’m looking for help with Advanced AI System Design and Scalable Distributed Architectures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Advanced MCP, Multi-Agent Orchestration, and LLM Optimization
+
+💬 Ask me about Python, Django, FastAPI, LangGraph, RAG, MCP, Redis, PostgreSQL, and Kafka
+
+⚡ Fun fact: I love turning complex business problems into intelligent, production-ready AI solutions!
+💻 Tech Stack:
+                
+📊 GitHub Stats:
+
+
+
+
+
+
+
+
